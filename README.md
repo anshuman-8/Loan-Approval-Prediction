@@ -4,9 +4,5 @@ In this project ML model  used  to predict weather the person is sutable for loa
 
 The data set used to train the model - [Dataset](https://www.kaggle.com/vtella/starter-loan-prediction-problem-36866eee-e/data)
 
-### ALgorithms 
-
+### ALgorithm used
 - Logistic Regression
-- Decision Tree
-- Random Forest
-- Extra Tress
